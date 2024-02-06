@@ -6,4 +6,4 @@ Open it on my github pages [here](tekkyneko.github.io/EyeExercise) or follow the
 - Go to settings on the new forked repo
 - Go to pages and set it the branch to main at root
 - go to (your_username).github.io/EyeExercise
-- 
+- Done!
